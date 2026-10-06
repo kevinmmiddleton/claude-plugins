@@ -27,7 +27,7 @@ codex plugin add unpaid-intern@middleton
 | Plugin | What it does | Repo |
 |---|---|---|
 | `unpaid-intern` | A free second brain for work. Hand it your transcripts, docs, tickets, and email; get back your morning briefing, meeting prep, status updates, and follow-ups, in plain files you own | [unpaid-intern](https://github.com/kevinmmiddleton/unpaid-intern) |
-| `job-search-agent` | An on-demand job search toolkit: saved searches across company job boards, scans when you ask, scored postings with an apply-or-skip verdict, a local tracker, and interview guides | [job-search-agent](https://github.com/kevinmmiddleton/job-search-agent) |
+| `recruiter-bff` | A recruiter that works for you: role-specific interview guides with a reusable story bank, an apply-or-skip score for any posting, scans when you ask, and a tracker in a plain file you own. Formerly Job Search Agent | [recruiter-bff](https://github.com/kevinmmiddleton/recruiter-bff) |
 | `personal-site` | A personal website built through a guided interview, from an editorial backbone to a launch walkthrough that ends live on GitHub Pages | [personal-site](https://github.com/kevinmmiddleton/personal-site) |
 | `build-with-claude` | A guide that walks non-technical people through setting up Claude Code with Telegram, so they can build apps from their phone | [build-with-claude](https://github.com/kevinmmiddleton/build-with-claude) |
 

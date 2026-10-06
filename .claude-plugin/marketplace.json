@@ -1,6 +1,6 @@
 {
   "name": "middleton",
-  "description": "Free Claude plugins from Kevin Middleton: a second brain for work, a job search agent, a personal-site builder, and a phone-to-app setup guide.",
+  "description": "Free Claude plugins from Kevin Middleton: a second brain for work, a recruiter that works for you, a personal-site builder, and a phone-to-app setup guide.",
   "owner": {
     "name": "Kevin Middleton",
     "url": "https://middleton.io"
@@ -16,13 +16,14 @@
       "homepage": "https://github.com/kevinmmiddleton/unpaid-intern"
     },
     {
-      "name": "job-search-agent",
+      "name": "recruiter-bff",
       "source": {
         "source": "url",
-        "url": "https://github.com/kevinmmiddleton/job-search-agent.git"
+        "url": "https://github.com/kevinmmiddleton/recruiter-bff.git"
       },
-      "description": "A lightweight, on-demand job search toolkit: saved searches across company job boards, on-demand scans, scored postings with an apply-or-skip verdict, a local application tracker, and role-specific interview guides.",
-      "homepage": "https://github.com/kevinmmiddleton/job-search-agent"
+      "version": "0.4.0",
+      "description": "A recruiter that works for you. Role-specific interview guides with a reusable story bank, an apply-or-skip score for any posting, on-demand scans for fresh roles, and a tracker in a plain file you own.",
+      "homepage": "https://github.com/kevinmmiddleton/recruiter-bff"
     },
     {
       "name": "personal-site",

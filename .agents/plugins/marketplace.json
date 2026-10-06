@@ -18,10 +18,10 @@
       "category": "Productivity"
     },
     {
-      "name": "job-search-agent",
+      "name": "recruiter-bff",
       "source": {
         "source": "url",
-        "url": "https://github.com/kevinmmiddleton/job-search-agent.git",
+        "url": "https://github.com/kevinmmiddleton/recruiter-bff.git",
         "ref": "main"
       },
       "policy": {
