@@ -21,7 +21,7 @@
         "source": "url",
         "url": "https://github.com/kevinmmiddleton/recruiter-bff.git"
       },
-      "version": "0.4.0",
+      "version": "0.4.1",
       "description": "A recruiter that works for you. Role-specific interview guides with a reusable story bank, an apply-or-skip score for any posting, on-demand scans for fresh roles, and a tracker in a plain file you own.",
       "homepage": "https://github.com/kevinmmiddleton/recruiter-bff"
     },
