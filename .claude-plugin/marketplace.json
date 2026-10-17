@@ -23,7 +23,7 @@
       },
       "version": "1.0.0",
       "description": "A recruiter that works for you. Interview guides that open with the role, your fit, your gaps, and questions to ask; an apply-or-skip fit check for any posting; on-demand scans for fresh roles; a tracker with follow-ups, reminders, and a weekly review; resume and LinkedIn help in your voice; and your LinkedIn connections matched to your search. Plain files you own, no servers. Formerly Job Search Agent.",
-      "homepage": "https://github.com/kevinmmiddleton/recruiter-bff"
+      "homepage": "https://middleton.io/recruiter-bff/"
     },
     {
       "name": "personal-site",
